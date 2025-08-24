@@ -1,1 +1,1 @@
-# practicing git command git ad
+# practicing git command
